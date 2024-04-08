@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "LINK.C": "cpp",
+        "LIST1.C": "cpp",
+        "LIST.C": "cpp",
+        "D_LIST.C": "cpp",
+        "linkLIST.C": "cpp"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ARRIMPLI.C": "cpp",
+        "SPARCE.C": "cpp",
+        "LINKLIST.C": "cpp"
+    }
+}
